@@ -14,17 +14,17 @@ widgets:
 # social config
 social:
   zhihu:
-  twitter: /
-  facebook: /
+  twitter:
+  facebook:
   linkedin:
-  instagram: /
-  github: haojen
+  instagram:
+  github: yukicoco
 
 user:
-  name: Haojen
+  name: Kurisu
   avatar:
   location: In the dust
-  description: May the Force be with you
+  description: Fly me to the moon.
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
@@ -54,14 +54,14 @@ appearance: auto # Default value is auto
 favicon: images/favicon.ico
 
 friend_links:
-  - title: Google
-    link: https://www.google.com/
-  - title: Github
-    link: https://www.github.com/
-  - title: V2EX
-    link: https://v2ex.com/
-  - title: Twitter
-    link: https://twitter.com/
+  # - title: Google
+  #   link: https://www.google.com/
+  # - title: Github
+  #   link: https://www.github.com/
+  # - title: V2EX
+  #   link: https://v2ex.com/
+  # - title: Twitter
+  #   link: https://twitter.com/
 
 # Google Analytics
 ga_track_id:
